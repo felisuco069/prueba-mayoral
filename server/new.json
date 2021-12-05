@@ -1,0 +1,124 @@
+{
+  "prendas": [
+    {
+      "id": 11,
+      "name": "Polo ecofriends manga larga print letras niño",
+      "price": 22.99,
+      "img_url": "/assets/images/polo-ecofriends-manga-larga--print-letras-nino_id_11-04157-092-M-4.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Polo ecofriends manga larga vestir bebé niño",
+      "price": 17.99,
+      "img_url": "/assets/images/polo-ecofriends-manga-larga-vestir-bebe-nino_id_11-02143-016-M-4.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Polo manga larga combinado bebé niño",
+      "price": 19.99,
+      "img_url": "/assets/images/polo-manga-larga-combinado-bebe-nino_id_11-02141-046-M-4.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Polo manga larga combinado bebé niño",
+      "price": 19.99,
+      "img_url": "/assets/images/polo-manga-larga-combinado-bebe-nino_id_11-02141-047-M-4.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Polo manga larga combinado bebé niño",
+      "price": 19.99,
+      "img_url": "/assets/images/polo-manga-larga-combinado-bebe-nino_id_11-02141-048-M-4.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Polo manga larga combinado niño",
+      "price": 22.99,
+      "img_url": "/assets/images/polo-manga-larga-combinado-nino_id_11-04154-066-M-4.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Polo manga larga combinado niño",
+      "price": 22.99,
+      "img_url": "/assets/images/polo-manga-larga-combinado-nino_id_11-04154-067-M-4.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Polo manga larga contrastes chico",
+      "price": 26.99,
+      "img_url": "/assets/images/polo-manga-larga-contrastes-chico_id_11-07145-073-M-4.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Polo manga larga cuello mao bandas chico",
+      "price": 29.99,
+      "img_url": "/assets/images/polo-manga-larga-cuello-mao-bandas-chico_id_11-57130-700-M-4.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Polo manga larga cuello mao chico",
+      "price": 29.99,
+      "img_url": "/assets/images/polo-manga-larga-cuello-mao-chico_id_11-57125-700-M-4.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Polo manga larga desagujado blocking niño",
+      "price": 24.99,
+      "img_url": "/assets/images/polo-manga-larga-desagujado-blocking-nino_id_11-55125-701-M-4.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Polo manga larga ecofriends chico",
+      "price": 26.99,
+      "img_url": "/assets/images/polo-manga-larga-ecofriends-chico_id_11-07147-080-M-4.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Polo manga larga print niño",
+      "price": 22.99,
+      "img_url": "/assets/images/polo-manga-larga-print-nino_id_11-04159-030-M-4.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Polo manga larga print niño",
+      "price": 22.99,
+      "img_url": "/assets/images/polo-manga-larga-print-nino_id_11-04159-031-M-4.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Polo manga larga rayas bebé niño",
+      "price": 19.99,
+      "img_url": "/assets/images/polo-manga-larga-rayas-bebe-nino_id_11-02140-058-M-4.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Polo manga larga rayas bebé niño",
+      "price": 19.99,
+      "img_url": "/assets/images/polo-manga-larga-rayas-bebe-nino_id_11-02140-059-M-4.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Polo manga larga rayas bebé niño",
+      "price": 19.99,
+      "img_url": "/assets/images/polo-manga-larga-rayas-bebe-nino_id_11-02140-060-M-4.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Polo manga larga rayas chico",
+      "price": 26.99,
+      "img_url": "/assets/images/polo-manga-larga-rayas-chico_id_11-07148-085-M-4.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Polo manga larga vestir niño",
+      "price": 24.99,
+      "img_url": "/assets/images/polo-manga-larga-vestir-nino_id_11-04161-060-M-4.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Polo manga larga vestir niño",
+      "price": 24.99,
+      "img_url": "/assets/images/polo-manga-larga-vestir-nino_id_11-04161-061-M-4.jpg"
+    }
+  ]
+}

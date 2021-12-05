@@ -1,0 +1,84 @@
+{
+  "prendas": [
+    {
+      "id": 1,
+      "name": "Jersey cuello pico escolar",
+      "price": 34.99,
+      "img_url": "/assets/images/jersey-cuello-pico-escolar_id_30-30311-003-M-4.jpg",
+      "new_price": 27.99,
+      "more_colours": "más colores"
+    },
+    {
+      "id": 2,
+      "name": "Jersey cuello redondo bebé niño",
+      "price": 19.99,
+      "img_url": "/assets/images/jersey-cuello-redondo-bebe-nino_id_11-00351-061-M-4.jpg",
+      "new_price": 15.99,
+      "more_colours": "más colores"
+    },
+    {
+      "id": 3,
+      "name": "Jersey ecofriends básico chico",
+      "price": 21.99,
+      "img_url": "/assets/images/jersey-ecofriends-basico-chico_id_11-00354-021-M-4.jpg",
+      "new_price": 0,
+      "more_colours": "más colores"
+    },
+    {
+      "id": 4,
+      "name": "Pantalón felpa perchada básico puños niño",
+      "price": 13.99,
+      "img_url": "/assets/images/pantalon-felpa-perchada-basico-punos-nino_id_11-00725-016-M-4.jpg",
+      "new_price": 11.19,
+      "more_colours": ""
+    },
+    {
+      "id": 5,
+      "name": "Pantalón felpa perchada largo chico",
+      "price": 17.99,
+      "img_url": "/assets/images/pantalon-felpa-perchada-largo-chico_id_11-57506-701-M-4.jpg",
+      "new_price": 0,
+      "more_colours": "más colores"
+    },
+    {
+      "id": 6,
+      "name": "Pantalón largo tejano soft denim jogger niño",
+      "price": 24.99,
+      "img_url": "/assets/images/pantalon-largo--tejano-soft-denim-jogger-nino_id_11-04569-082-M-4.jpg",
+      "new_price": 19.99,
+      "more_colours": ""
+    },
+    {
+      "id": 7,
+      "name": "Pantalón largo chino con cinturon bebe niño",
+      "price": 27.99,
+      "img_url": "/assets/images/pantalon-largo-chino-con-cinturon-bebe-nino_id_11-02535-079-M-4.jgp.jpg",
+      "new_price": 0,
+      "more_colours": "más colores"
+    },
+    {
+      "id": 8,
+      "name": "Pantalón largo tejano bebé niña",
+      "price": 17.99,
+      "img_url": "/assets/images/pantalon-largo-tejano-bebe-nina_id_11-00576-051-M-4.jpg",
+      "new_price": 0,
+      "more_colours": ""
+    },
+    {
+      "id": 9,
+      "name": "Pantalón largo tejano bebé niña",
+      "price": 24.99,
+      "img_url": "/assets/images/pantalon-largo-tejano-bebe-nina_id_11-02542-038-M-4.jpg",
+      "new_price": 19.99,
+      "more_colours": "más colores"
+    },
+    {
+      "id": 10,
+      "name": "Pantalón largo tejano slim fit chico",
+      "price": 27.99,
+      "img_url": "/assets/images/pantalon-largo-tejano-slim-fit-chico_id_11-00516-030-M-4.jpg",
+      "new_price": 0,
+      "more_colours": "más colores"
+    }
+  ]
+}

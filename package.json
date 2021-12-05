@@ -8,11 +8,11 @@
     "build": "run-p -l type-check build:prod",
     "build-dev": "run-p -l type-check build:dev",
     "start:dev": "webpack serve --config webpack.dev.js",
+    "start:mock-server": "cd ./server && npm start",
     "build:prod": "webpack --config webpack.prod.js",
     "build:dev": "webpack --config webpack.dev.js",
     "build:perf": "npm run type-check && webpack --config webpack.perf.js",
     "type-check": "tsc --noEmit",
-    "start:mock-server": "cd ./server && npm start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

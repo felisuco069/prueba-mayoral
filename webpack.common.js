@@ -23,6 +23,10 @@ module.exports = {
                 exclude: /node-modules/,
                 loader: "babel-loader",
             },
+            {
+                test: /\.(png|jpg)$/,
+                type: "asset/resource",
+            }
 
         ],
     },
