@@ -31,7 +31,7 @@ input {
     align-items: center;
     margin: 1rem 0.6rem;
     padding: 1rem;
-    height: 500px;
+    height: 480px;
     &:hover {
       border: 2px solid green;
     }
@@ -51,6 +51,40 @@ input {
   }
 }
 
+.description {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: bold;
+  color: rgb(90, 111, 128);
+}
+
+.priceContainer {
+  display: flex;
+  flex-direction: column;
+  height: 4.5rem;
+  justify-content: center;
+  position: static;
+  bottom: 2rem;
+}
+
+.price {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: rgb(90, 111, 128);
+}
+.newprice {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: rgb(189, 83, 69);
+}
+
+.strikeThrough {
+  text-decoration: line-through;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: rgb(90, 111, 128);
+}
+
+.colours {
+  height: 1rem;
+}
+
 button {
   background-color: rgb(0, 102, 255);
   color: aliceblue;
@@ -61,23 +95,4 @@ button {
     background-color: cadetblue;
     cursor: pointer;
   }
-}
-
-.description {
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
-  font-weight: bold;
-  color: rgb(90, 111, 128);
-}
-
-.priceContainer {
-  display: flex;
-  flex-direction: column;
-}
-.price {
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
-  color: rgb(90, 111, 128);
-}
-.newprice {
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
-  color: rgb(189, 83, 69);
 }

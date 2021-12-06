@@ -43,12 +43,18 @@ export const App = () => {
                 <span className={classes.description}>{wear.name}</span>
               </div>
               <div className={classes.priceContainer}>
-                <span id="" className={classes.price}>{`${wear.price} €`}</span>
+                <span
+                  className={
+                    wear.new_price !== 0 ? classes.strikeThrough : classes.price
+                  }
+                >{`${wear.price} €`}</span>
                 <span className={classes.newprice}>
                   {wear.new_price !== 0 ? `${wear.new_price} € (20%)` : ""}
                 </span>
               </div>
-              <a href="">{wear.more_colours}</a>
+              <a className={classes.colours} href="">
+                {wear.more_colours}
+              </a>
               <button>AÑADIR</button>
             </div>
           );
