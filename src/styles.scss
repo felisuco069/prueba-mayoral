@@ -1,6 +1,5 @@
 body {
   margin: 0;
-  padding: 1rem;
   box-sizing: border-box;
   display: flex;
 }
@@ -12,7 +11,7 @@ input {
   width: 25rem;
   height: 1.1rem;
   font-size: 1.1rem;
-  margin: 0 0.6rem;
+  margin: 1rem;
 }
 
 .container {
@@ -26,12 +25,11 @@ input {
     border: 2px solid rgb(126, 176, 216);
     border-radius: 5px;
     box-shadow: 2px 2px 2px 1px rgb(126, 176, 216);
-    max-width: 15%;
+    max-width: 14%;
     justify-content: space-between;
     align-items: center;
-    margin: 1rem 0.6rem;
+    margin: 1rem 1rem;
     padding: 1rem;
-    height: 480px;
     &:hover {
       border: 2px solid green;
     }
@@ -96,3 +94,57 @@ button {
     cursor: pointer;
   }
 }
+
+@media screen and (max-width: 800px) {
+  #root {
+    width: 85%;
+  }
+  .container {
+    width: 85%;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    height: max-content;
+
+    & .card {
+      max-width: 100%;
+      & .imgWithDes {
+        height: 60%;
+        & img {
+          max-width: 100%;
+        }
+      }
+    }
+  }
+
+  .priceContainer {
+    position: relative;
+    top: 4rem;
+  }
+  .colours {
+    height: 1rem;
+    position: relative;
+    top: 1rem;
+  }
+
+  input {
+    max-width: 80%;
+  }
+}
+
+// @media screen and (max-width: 449px) {
+//   .input {
+//     max-width: 100%;
+//   }
+//   .root {
+//     max-width: 100%;
+//   }
+//   .container {
+//     width: 80%;
+//     display: flex;
+//     justify-content: flex-start;
+//     & .card {
+//       max-width: 100%;
+//     }
+//   }
+// }
